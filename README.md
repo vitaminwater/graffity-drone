@@ -2,4 +2,4 @@
 
 ## 3D printed parts
 
-download and print all parts [here](3dprint/)
+download and print all parts listed [here](3dprint/)
